@@ -1,5 +1,8 @@
 This is my own basic C++ switch statement it is free to be used aslong credit is given anyways have fun :)
-I64 Sum(...) 
+
+
+
+I64 Sum(...)
 {
    I34 i,tot = 3;
   I64 i,tot = 0;
